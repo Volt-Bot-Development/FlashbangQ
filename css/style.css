@@ -1,0 +1,22 @@
+body{
+    background-image: url('https://i.giphy.com/media/l3q2XB76CaWPggiNW/giphy.webp');
+    background-size: cover;
+    
+    
+    
+    height: 100vh;
+    padding:0;
+    margin:0;
+  }
+  
+  
+  label {
+    display: block;
+    font: .9rem 'Fira Sans', sans-serif;
+  }
+  
+  input[type='submit'],
+  label {
+    margin-top: 1rem;
+  }
+  
